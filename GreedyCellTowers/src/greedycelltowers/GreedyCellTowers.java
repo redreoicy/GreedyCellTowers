@@ -36,7 +36,7 @@ public class GreedyCellTowers {
 		//for(int x : towerLocations) {
 		//	System.out.print(x + " ");
 		//}
-		System.out.println("There are " + towerLocations.size() + " total towers using a basic solution.");
+		System.out.println("There are " + towerLocations.size() + " total towers using a basic algorithm.");
 		return towerLocations.size();
 	}
 	
