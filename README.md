@@ -10,3 +10,4 @@ Assume the road starts at mile marker 0, and houses are located at the following
 ### Test Case 2
 Randomly generate a set of 1000000 houses from miles 0-4000000.
 
+![Greedy vs Basic Algorithm](TestCases)
